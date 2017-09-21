@@ -2,13 +2,14 @@ extern crate rand;
 
 use rand::Rng;
 
-static FOOD_PLACES: [&str; 16] = [
+static FOOD_PLACES: [&str; 15] = [
     "Bar Burrito",
-    "Bento Ya",
+    // "Bento Ya",
     "Dough",
     "Herbivore Kitchen",
+    "Hula",
     "Let us eat",
-    "Maki and Ramen",
+    // "Maki and Ramen",
     "Mama's",
     "Pizza Express",
     "Pumpkin Brown",
