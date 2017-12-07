@@ -2,7 +2,7 @@ extern crate rand;
 
 use rand::Rng;
 
-static FOOD_PLACES: [&str; 15] = [
+static FOOD_PLACES: [&str; 16] = [
     "Bar Burrito",
     // "Bento Ya",
     "Dough",
@@ -20,6 +20,7 @@ static FOOD_PLACES: [&str; 15] = [
     "Ting Thai Caravan",
     "Wagamama",
     "Wildman Wood",
+    "Zizzi's",
 ];
 
 fn main() {
